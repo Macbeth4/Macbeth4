@@ -9,11 +9,10 @@
 <h3 align="left">My Games:</h3>
 <p align="left">
    <a href="https://play.google.com/store/apps/dev?id=5115297245000304725" target="blank" align="center"> <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-store-app-logo-gets-a-slight-redesign-png-19.png" alt="Play Store" width="40" height="40"/> </a> 
-  </p>
-
-<p align="left">
    <a href="https://besucbesdort.itch.io" target="blank" align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsj8KhNZ6sP0rUnUWtz11v-pm8iJG0hIfOPSDnHfhZjPZxK2AbRG-bFpEGXKpPimammSI&usqp=CAU" alt="Itch io" width="40" height="40"/> </a> 
   </p>
+
+
 
   
 <h3 align="left">Languages and Tools:</h3>
