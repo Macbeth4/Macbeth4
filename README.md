@@ -14,7 +14,7 @@
     <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-store-app-logo-gets-a-slight-redesign-png-19.png" alt="Play Store" width="40" height="40"/> 
   </a>
   <a href="https://besucbesdort.itch.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsj8KhNZ6sP0rUnUWtz11v-pm8iJG0hIfOPSDnHfhZjPZxK2AbRG-bFpEGXKpPimammSI&usqp=CAU" alt="Itch io" width="40" height="40"/>
+    <img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" alt="Itch io" width="40" height="40"/>
   </a>
 </p>
 
