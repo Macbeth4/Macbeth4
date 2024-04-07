@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Yusuf Efe</h1>
-<h3 align="center">I am someone who makes games on my own.</h3>
+<h1 align="center">I am someone who makes games on my own.</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
