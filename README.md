@@ -1,6 +1,5 @@
 <h1 align="center">I am someone who makes games on my own.</h1>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/besucbesdort" target="_blank" rel="noopener noreferrer">
